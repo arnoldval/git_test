@@ -9,4 +9,7 @@ Trying to update file.
 4. git push
 
 git status
+
 git log
+
+adding commit message
